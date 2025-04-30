@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Equipo 4C: Emilio García && David Martínez
+
 public class Entradas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
